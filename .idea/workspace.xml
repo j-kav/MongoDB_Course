@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5f7288e-7a54-4e82-9553-568ad12d2524" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\hello_world_on_node_js\hello_world_http\hello_world_http\app.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\hello_world_on_node_js\hello_world_nodejs\hello_world_nodejs\app.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\hello_world_using_express\hello_world_express\hello_world_express\app.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\introduction_to_npm\intro_to_npm\intro_to_npm\app.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\introduction_to_npm\intro_to_npm\intro_to_npm\package.json" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\asynchronous_vs_synchronous\async_vs_sync\README.md" afterPath="$PROJECT_DIR$/1_introduction/asynchronous_vs_synchronous/README.md" />
-      <change type="MOVED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\asynchronous_vs_synchronous\async_vs_sync\app.js" afterPath="$PROJECT_DIR$/1_introduction/asynchronous_vs_synchronous/app.js" />
-      <change type="MOVED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\asynchronous_vs_synchronous\async_vs_sync\script.js" afterPath="$PROJECT_DIR$/1_introduction/asynchronous_vs_synchronous/script.js" />
-      <change type="MOVED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\express_handling_get_requests\get_express\get_express\app.js" afterPath="$PROJECT_DIR$/1_introduction/express_handling_get_requests/app.js" />
-      <change type="MOVED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\express_handling_get_requests\get_express\get_express\views\hello.html" afterPath="$PROJECT_DIR$/1_introduction/express_handling_get_requests/views/hello.html" />
-      <change type="MOVED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\express_handling_post_requests\post_express\post_express\app.js" afterPath="$PROJECT_DIR$/1_introduction/express_handling_post_requests/app.js" />
-      <change type="MOVED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\express_handling_post_requests\post_express\post_express\views\error_template.html" afterPath="$PROJECT_DIR$/1_introduction/express_handling_post_requests/views/error_template.html" />
-      <change type="MOVED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\express_handling_post_requests\post_express\post_express\views\fruitPicker.html" afterPath="$PROJECT_DIR$/1_introduction/express_handling_post_requests/views/fruitPicker.html" />
-      <change type="MOVED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\hello_world_mongodb_style\hello_world_mongodb\hello_world_mongodb\app.js" afterPath="$PROJECT_DIR$/1_introduction/hello_world_mongodb_style/app.js" />
-      <change type="MOVED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\hello_world_using_express_and_swig\hello_world_swig\hello_world_swig\app.js" afterPath="$PROJECT_DIR$/1_introduction/hello_world_using_express_and_swig/app.js" />
-      <change type="MOVED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\hello_world_using_express_and_swig\hello_world_swig\hello_world_swig\views\hello.html" afterPath="$PROJECT_DIR$/1_introduction/hello_world_using_express_and_swig/views/hello.html" />
-      <change type="MOVED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\hello_world_using_express_swig_and_mongodb\hello_world_combined\hello_world_combined\app.js" afterPath="$PROJECT_DIR$/1_introduction/hello_world_using_express_swig_and_mongodb/app.js" />
-      <change type="MOVED" beforePath="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\hello_world_using_express_swig_and_mongodb\hello_world_combined\hello_world_combined\views\hello.html" afterPath="$PROJECT_DIR$/1_introduction/hello_world_using_express_swig_and_mongodb/views/hello.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/MongoDB_Course.iml" afterPath="$PROJECT_DIR$/.idea/MongoDB_Course.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MongoDB_Course.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,73 +27,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitattributes" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_updating/update_operator/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+            <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.09199318" vertical-offset="0" max-vertical-offset="587">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_introduction/hello_world_using_express_swig_and_mongodb/app.js">
+      <file leaf-file-name="weather_data.csv" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2_crud/homework_2_1/weather_data.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="738">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_introduction/hello_world_using_express_and_swig/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_introduction/hello_world_mongodb_style/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_introduction/express_handling_post_requests/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="756">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_introduction/asynchronous_vs_synchronous/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_introduction/asynchronous_vs_synchronous/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_introduction/asynchronous_vs_synchronous/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.12529002" vertical-offset="0" max-vertical-offset="862">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="53460">
               <folding />
             </state>
           </provider>
@@ -127,6 +58,15 @@
   <component name="GitLogSettings">
     <option name="myDateState">
       <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/2_crud/node_js_driver_find_findone_and_cursors/find/app.js" />
+        <option value="$PROJECT_DIR$/2_crud/node_js_driver_find_findone_and_cursors/findOne/app.js" />
+        <option value="$PROJECT_DIR$/2_crud/node_js_driver_inserting_id/insert_array/insert_array/app.js" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -161,7 +101,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -190,11 +129,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1_introduction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello_world_using_express_swig_and_mongodb" />
+              <option name="myItemId" value="2_crud" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -208,107 +143,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1_introduction" />
+              <option name="myItemId" value="2_crud" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hello_world_using_express_and_swig" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MongoDB_Course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MongoDB_Course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1_introduction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello_world_mongodb_style" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MongoDB_Course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MongoDB_Course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1_introduction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="express_handling_post_requests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MongoDB_Course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MongoDB_Course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1_introduction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="express_handling_get_requests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MongoDB_Course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MongoDB_Course" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1_introduction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="asynchronous_vs_synchronous" />
+              <option name="myItemId" value="homework_2_1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="JavaScript.Libraries" />
-    <property name="options.searchVisible" value="true" />
+    <property name="options.lastSelected" value="settings.nodejs" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\asynchronous_vs_synchronous" />
-      <recent name="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\express_handling_get_requests" />
-      <recent name="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\express_handling_post_requests" />
-      <recent name="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\hello_world_mongodb_style" />
-      <recent name="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\1_introduction\hello_world_using_express_and_swig" />
+      <recent name="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\2_crud\node_js_driver_using_field_projection" />
+      <recent name="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\2_crud\node_js_driver_using_gt_and_lt" />
+      <recent name="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\2_crud\node_js_driver_using_regex" />
+      <recent name="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\2_crud\node_js_driver_using_dot_notation" />
+      <recent name="C:\Users\alexandrka\Documents\GitHub\MongoDB_Course\2_crud\node_js_driver_using_dot_notation\dot_notation" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -321,26 +221,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1288" height="1032" extended-state="7" />
+    <frame x="-4" y="-4" width="1288" height="1032" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3096847" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2442323" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17501989" sideWeight="0.6903153" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -352,61 +252,119 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_introduction/hello_world_using_express_swig_and_mongodb/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="862">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="738">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_introduction/hello_world_using_express_and_swig/app.js">
+    <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_find_findone_and_cursors/grades.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="862">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="548">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_introduction/hello_world_mongodb_style/app.js">
+    <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_find_findone_and_cursors/findOne/quiz/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="862">
+        <state line="10" column="25" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_introduction/express_handling_post_requests/app.js">
+    <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_inserting_id/insert_array/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="862">
+        <state line="11" column="34" selection-start="396" selection-end="396" vertical-scroll-proportion="0.34982333" vertical-offset="0" max-vertical-offset="566">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_introduction/asynchronous_vs_synchronous/app.js">
+    <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_findandmodify/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="862">
+        <state line="10" column="27" selection-start="318" selection-end="326" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_introduction/asynchronous_vs_synchronous/README.md">
+    <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_find_findone_and_cursors/find/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="862">
+        <state line="7" column="0" selection-start="187" selection-end="341" vertical-scroll-proportion="0.21465077" vertical-offset="0" max-vertical-offset="587">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_introduction/asynchronous_vs_synchronous/script.js">
+    <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_find_findone_and_cursors/find_cursors/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.12529002" vertical-offset="0" max-vertical-offset="862">
+        <state line="5" column="34" selection-start="185" selection-end="185" vertical-scroll-proportion="0.15332198" vertical-offset="0" max-vertical-offset="587">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_find_findone_and_cursors/findOne/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="335" selection-end="335" vertical-scroll-proportion="0.39863715" vertical-offset="0" max-vertical-offset="587">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_inserting_id/insert_noid/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="0.4599659" vertical-offset="0" max-vertical-offset="587">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_inserting_id/insert_id/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="587">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_updating/update_multi/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="587">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_skip_limit_and_sort/skip_limit_sort/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="587">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_crud/importing_reddit/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="47" selection-start="506" selection-end="506" vertical-scroll-proportion="0.36797273" vertical-offset="0" max-vertical-offset="587">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_updating/update_operator/quiz/quiz.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="587">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_crud/homework_2_1/weather_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="53460">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_updating/update_operator/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.09199318" vertical-offset="0" max-vertical-offset="587">
           <folding />
         </state>
       </provider>
