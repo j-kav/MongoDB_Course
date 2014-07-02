@@ -25,22 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_schema/homework_3_2_manual_validation_version/hw3-2and3-3/hw3-2and3-3/blog/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="posts.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_schema/homework_3_2_manual_validation_version/hw3-2and3-3/hw3-2and3-3/blog/posts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="11" selection-start="2448" selection-end="2448" vertical-scroll-proportion="0.0" vertical-offset="1328" max-vertical-offset="1955">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="80" column="11" selection-start="2448" selection-end="2448" vertical-scroll-proportion="0.0" vertical-offset="1440" max-vertical-offset="2070">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,7 +37,7 @@
       <file leaf-file-name="users.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_schema/homework_3_3_manual_validation_version/hw3-2and3-3/hw3-2and3-3/blog/users.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="48" selection-start="729" selection-end="729" vertical-scroll-proportion="0.0" vertical-offset="843" max-vertical-offset="1377">
+            <state line="20" column="48" selection-start="729" selection-end="729" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1458">
               <folding />
             </state>
           </provider>
@@ -57,10 +46,8 @@
       <file leaf-file-name="posts.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_schema/homework_3_3_manual_validation_version/hw3-2and3-3/hw3-2and3-3/blog/posts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="68" selection-start="119" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1615">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="5" column="68" selection-start="119" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1710">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -68,10 +55,8 @@
       <file leaf-file-name="posts.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_perfoemance/homework_4_3_manual_validation_version/blog/posts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="51" selection-start="1165" selection-end="1165" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1836">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="32" column="51" selection-start="1165" selection-end="1165" vertical-scroll-proportion="0.0" vertical-offset="576" max-vertical-offset="1944">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,7 +64,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_perfoemance/homework_4_3_mongoproc_beta_version/blog/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
               <folding />
             </state>
           </provider>
@@ -88,10 +73,8 @@
       <file leaf-file-name="posts.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_perfoemance/homework_4_3_mongoproc_beta_version/blog/posts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="1836">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="16" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="1944">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,7 +82,7 @@
       <file leaf-file-name="sessions.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_perfoemance/homework_4_3_mongoproc_beta_version/blog/sessions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="33" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="452" max-vertical-offset="1207">
+            <state line="19" column="33" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="1278">
               <folding />
             </state>
           </provider>
@@ -108,7 +91,7 @@
       <file leaf-file-name="users.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/4_perfoemance/homework_4_3_mongoproc_beta_version/blog/users.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="33" selection-start="639" selection-end="639" vertical-scroll-proportion="-1.1539961" vertical-offset="898" max-vertical-offset="1411">
+            <state line="18" column="33" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="1494">
               <folding />
             </state>
           </provider>
@@ -117,7 +100,7 @@
       <file leaf-file-name="sessions.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_perfoemance/homework_4_3_manual_validation_version/blog/sessions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0" vertical-offset="605" max-vertical-offset="1207">
+            <state line="12" column="0" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1278">
               <folding />
             </state>
           </provider>
@@ -179,7 +162,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -198,8 +180,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MongoDB_Course" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MongoDB_Course" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5_aggregation_framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,17 +206,6 @@
     <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-  </component>
-  <component name="PublishConfig">
-    <servers>
-      <server id="27b87ad7-dffa-4027-8edd-0f0304515b52">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-    </servers>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -279,14 +265,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1112" height="1040" extended-state="1" />
+    <frame x="0" y="0" width="1112" height="1040" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38325992" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3828125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32937956" sideWeight="0.6167401" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3293247" sideWeight="0.6171875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -315,11 +301,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2_crud/importing_reddit/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="47" selection-start="506" selection-end="506" vertical-scroll-proportion="0.36797273" vertical-offset="0" max-vertical-offset="587" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_updating/update_operator/quiz/quiz.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="587" />
@@ -327,16 +308,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2_crud/homework_2_1/weather_data.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="53460">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="53460" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2_crud/node_js_driver_updating/update_operator/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
+        <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3_schema/homework_3_2_manual_validation_version/hw3-2and3-3/hw3-2and3-3/blog/package.json">
@@ -348,9 +325,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_perfoemance/homework_4_4/sysprofile.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="44" selection-start="3239" selection-end="3239" vertical-scroll-proportion="-0.27474746" vertical-offset="306" max-vertical-offset="25857">
-          <folding />
-        </state>
+        <state line="10" column="44" selection-start="3239" selection-end="3239" vertical-scroll-proportion="-0.27474746" vertical-offset="306" max-vertical-offset="25857" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4_perfoemance/homework_4_3_manual_validation_version/posts.json">
@@ -361,9 +336,7 @@
     <entry file="file://$PROJECT_DIR$/3_schema/homework_3_2_manual_validation_version/hw3-2and3-3/hw3-2and3-3/blog/posts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="80" column="11" selection-start="2448" selection-end="2448" vertical-scroll-proportion="0.0" vertical-offset="1328" max-vertical-offset="1955">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -377,9 +350,7 @@
     <entry file="file://$PROJECT_DIR$/3_schema/homework_3_3_manual_validation_version/hw3-2and3-3/hw3-2and3-3/blog/posts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="68" selection-start="119" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1615">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -393,9 +364,7 @@
     <entry file="file://$PROJECT_DIR$/4_perfoemance/homework_4_3_manual_validation_version/blog/posts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="51" selection-start="1165" selection-end="1165" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1836">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -409,9 +378,7 @@
     <entry file="file://$PROJECT_DIR$/4_perfoemance/homework_4_3_mongoproc_beta_version/blog/posts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0" vertical-offset="1326" max-vertical-offset="1836">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -422,9 +389,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/5_aggregation_framework/using_push/using_push.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="6" selection-start="135" selection-end="135" vertical-scroll-proportion="0.28458497" vertical-offset="0" max-vertical-offset="506">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/4_perfoemance/homework_4_3_mongoproc_beta_version/blog/users.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="33" selection-start="639" selection-end="639" vertical-scroll-proportion="-1.1539961" vertical-offset="898" max-vertical-offset="1411">
+        <state line="18" column="33" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="1494">
           <folding />
         </state>
       </provider>
